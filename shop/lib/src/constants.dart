@@ -36,7 +36,7 @@ class AppConstants {
 
   // ===== Cart & Inventory Metrics =====
   static const String totalItemsLabel = 'Total items: ';
-
+ // who changed
   // ===== Product Messages =====
   static const String productFormat = '#';
 
